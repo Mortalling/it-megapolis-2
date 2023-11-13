@@ -1,0 +1,1 @@
+print("Mistor Bombastik bonba fantastik")
